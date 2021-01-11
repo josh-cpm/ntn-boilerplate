@@ -3,5 +3,5 @@
   "project_type": "story",
   "title": "Story test",
   "description": "Short descriptive text",
-  "body": "Longer **markdown**-*enabled* content text."
+  "body": "# Longer **markdown**-*enabled* content text.\n\n﻿Going to put a subtitle.\n\n## ﻿﻿Ok, trying this out\n\n### The markdown editor is great\n\nthe rich text editor seems kind of glitchy\n"
 }
